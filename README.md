@@ -1,7 +1,2 @@
-# CSC 394 - Team 3
-
-# flashFlicks-team-three-product
-
-# This is a github repo for POC Demo first requirement
-#test
+FlashFlicks- A Studying platform for users to better master new skills
 

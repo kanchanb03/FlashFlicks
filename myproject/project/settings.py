@@ -31,6 +31,11 @@ ALLOWED_HOSTS = ["flashflicks-production.up.railway.app",
     "localhost",
     "127.0.0.1",]
 
+CSRF_TRUSTED_ORIGINS = [
+    "https://flashflicks-production.up.railway.app",
+]
+
+
 
 # Application definition
 
